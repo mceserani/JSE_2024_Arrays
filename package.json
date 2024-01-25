@@ -1,0 +1,22 @@
+{
+  "name": "jse_2024_arrays",
+  "version": "1.0.0",
+  "description": "Esercizi sulla manipolazione degli array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mceserani/JSE_2024_Arrays.git"
+  },
+  "author": "Matteo Ceserani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mceserani/JSE_2024_Arrays/issues"
+  },
+  "homepage": "https://github.com/mceserani/JSE_2024_Arrays#readme",
+  "dependencies": {
+    "inquirer": "^9.2.12"
+  }
+}
