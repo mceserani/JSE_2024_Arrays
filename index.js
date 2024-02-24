@@ -54,7 +54,7 @@ const menu = [
     }
 ];
 
-// Menù per la scelta dei vettori
+// Menù per l'inserimento di due vettori
 const vectorMenu = [
     {
       type: 'input',
@@ -80,7 +80,7 @@ const vectorMenu = [
     }
 ];
 
-// Menù per la scelta del vettore
+// Menù per l'inserimento di un vettore
 const vectorMenu2 = [
     {
       type: 'input',
